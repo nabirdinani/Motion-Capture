@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8a50725d-adae-43ac-98be-a2bf4db6c62d}</UniqueIdentifier>
+      <Extensions>cpp;c;cxx;rc;def;r;odl;idl;hpj;bat</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0afbc5a4-951d-471e-b0f4-ac1fcf2e67d2}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{72792629-d3a7-468d-8a82-be88fa3abc02}</UniqueIdentifier>
+      <Extensions>ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="display.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interface.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="interpolator.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="motion.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="posture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="skeleton.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="transform.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="vector.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="display.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="interface.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="interpolator.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="motion.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="player.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="posture.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="skeleton.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="transform.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="types.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="vector.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

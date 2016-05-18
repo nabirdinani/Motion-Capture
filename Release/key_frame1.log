@@ -1,0 +1,82 @@
+﻿Build started 12/6/2015 8:25:51 PM.
+Project "C:\Users\Nabir Dinani\Desktop\hw6\asf_amc_viewer\viewer\key_frame1.vcxproj" on node 2 (build target(s)).
+InitializeBuildStatus:
+  Creating ".\Release\key_frame1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+ClCompile:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Users\Nabir Dinani\Desktop\hw6\asf_amc_viewer\fltk-1.0.11" /Zi /nologo /W3 /WX- /O2 /Ob1 /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _VC80_UPGRADE=0x0600 /D _MBCS /GF /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Release/" /Fd".\Release/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt player.cxx
+  player.cxx
+player.cxx(81): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(81): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(85): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(85): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(89): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(89): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(102): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(102): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(102): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(103): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(103): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(103): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(105): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(121): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(121): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(121): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(129): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(129): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(129): warning C4305: 'argument' : truncation from 'double' to 'GLfloat'
+player.cxx(208): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+player.cxx(209): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+player.cxx(210): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+player.cxx(211): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+player.cxx(259): warning C4018: '<' : signed/unsigned mismatch
+player.cxx(261): warning C4244: 'initializing' : conversion from 'int' to 'float', possible loss of data
+player.cxx(276): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+player.cxx(278): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+player.cxx(285): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+player.cxx(287): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+player.cxx(298): warning C4305: '=' : truncation from 'double' to 'float'
+player.cxx(321): warning C4305: 'argument' : truncation from 'double' to 'float'
+player.cxx(396): warning C4305: 'argument' : truncation from 'double' to 'float'
+player.cxx(399): warning C4305: '=' : truncation from 'double' to 'float'
+player.cxx(418): warning C4305: 'argument' : truncation from 'double' to 'float'
+player.cxx(685): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(685): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(685): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(686): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(686): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(686): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(694): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(694): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(697): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(697): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(723): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
+player.cxx(833): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+player.cxx(833): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+player.cxx(833): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+player.cxx(803): warning C4101: 'ev_x' : unreferenced local variable
+player.cxx(803): warning C4101: 'ev_y' : unreferenced local variable
+player.cxx(958): warning C4305: 'argument' : truncation from 'double' to 'float'
+player.cxx(989): warning C4305: 'argument' : truncation from 'double' to 'float'
+Link:
+  C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\Release/key_frame1.exe" /INCREMENTAL:NO /NOLOGO glu32.lib opengl32.lib comctl32.lib wsock32.lib libjpeg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Release\key_frame1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /PDB:".\Release/key_frame1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Release\key_frame1.lib" /MACHINE:X86 .\Release/display.obj
+  .\Release/interface.obj
+  .\Release/interpolator.obj
+  .\Release/motion.obj
+  .\Release/player.obj
+  .\Release/posture.obj
+  .\Release/skeleton.obj
+  .\Release/transform.obj
+  .\Release/vector.obj
+  "C:\Users\Nabir Dinani\Desktop\hw6\asf_amc_viewer\fltk-1.0.11\lib\fltk.lib"
+     Creating library .\Release\key_frame1.lib and object .\Release\key_frame1.exp
+  key_frame1.vcxproj -> C:\Users\Nabir Dinani\Desktop\hw6\asf_amc_viewer\viewer\.\Release\key_frame1.exe
+Manifest:
+  C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\Release/key_frame1.exe;#1" /manifest .\Release\key_frame1.exe.intermediate.manifest
+FinalizeBuildStatus:
+  Deleting file ".\Release\key_frame1.unsuccessfulbuild".
+  Touching ".\Release\key_frame1.lastbuildstate".
+Done Building Project "C:\Users\Nabir Dinani\Desktop\hw6\asf_amc_viewer\viewer\key_frame1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.40
